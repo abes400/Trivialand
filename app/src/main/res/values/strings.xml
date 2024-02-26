@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Trivialand</string>
+
+
+    <!-- LOGIN PAGE -->
+    <string name="email_hint">E-mail</string>
+    <string name="pw_hint">Password</string>
+    <string name="signin_btn">Sign In</string>
+    <string name="or">OR</string>
+    <string name="sign_up">Don\'t you have an account? <font color='#009688'><b>Sign Up!</b></font></string>
+    <string name="forgot_pw"><u>Forgot password?</u></string>
+
+    <!-- SIGNUP PAGE -->
+    <string name="title_signup">Sign Up</string>
+    <string name="email_hint_signup">Enter an E-mail</string>
+    <string name="pw_hint_signup">Create a Password</string>
+    <string name="signup_btn_signup">Create Account!</string>
+
+    <!--TOAST-->
+    <string name="create_successful">User created successfully!</string>
+    <string name="create_fail">User creation failed.</string>
+    <string name="welcome_back"><b>Welcome back!</b></string>
+    <string name="login_fail">Incorrect e-mail or password</string>
+    <string name="missing_info">Some informaiton are missing. Please complete the form to continue</string>
+
+    <!-- FORGOT PAGE -->
+    <string name="title_forgot">Reset Password</string>
+    <string name="button_forgot">Send Request</string>
+    <string name="pw_rst_approve">Request Sent, please check your mailbox</string>
+    <string name="pw_rst_failure">Please check connection or e-mail</string>
+
+    <!-- MAIN -->
+    <string name="title_main">Home</string>
+    <string name="loginas">Signed in as: </string>
+    <string name="button_logout">Sign out</string>
+    <string name="high_score">High Scores: </string>
+    <string name="high_art">Movies and TV Shows</string>
+    <string name="high_ani">Anime</string>
+    <string name="high_general">General Culture</string>
+    <string name="start_test_1">Begin Quiz</string>
+
+    <!-- QUIZ -->
+    <string name="time"><b>Time</b></string>
+    <string name="correct"><b>Correct</b></string>
+    <string name="wrong"><b>Wrong</b></string>
+    <string name="question"><b>Question</b></string>
+    <string name="next"><b>Next</b></string>
+    <string name="end"><b>Quit</b></string>
+    <string name="time_up"><b>Time\'s up!</b></string>
+
+    <!--RESULTS-->
+    <string name="title_result">Results</string>
+    <string name="congrats"><b>Congratulations</b></string>
+    <string name="corrects"><b>Correct Answers: </b></string>
+    <string name="wrongs"><b>Wrong Answers: </b></string>
+    <string name="play_again"><b>Play Again</b></string>
+    <string name="exit"><b>Back to Menu</b></string>
+
+
+
+</resources>

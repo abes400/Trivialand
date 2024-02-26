@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Trivialand" parent="Theme.Material3.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:colorBackground">@color/light_bg</item>
+        <item name="actionBarTheme">@style/ActionBarColor</item>
+    </style>
+
+    <style name="ActionBarColor" parent="Theme.AppCompat.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:colorForeground">@color/white</item>
+    </style>
+
+    <style name="Base.Theme.Trivialand_Splash" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/light_bg</item>
+        <item name="android:colorBackground">@color/light_bg</item>
+    </style>
+
+    <style name="Base.Theme.Trivialand_Login" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/gray</item>
+        <item name="android:colorBackground">@color/light_bg</item>
+    </style>
+
+    <style name="Theme.Trivialand" parent="Base.Theme.Trivialand" />
+</resources>

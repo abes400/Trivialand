@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183877882449",
+    "firebase_url": "https://quiz-4a916-default-rtdb.firebaseio.com",
+    "project_id": "quiz-4a916",
+    "storage_bucket": "quiz-4a916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183877882449:android:6963350128e00d63cb5e70",
+        "android_client_info": {
+          "package_name": "com.bilir.trivialand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183877882449-369qskhf04kph9svhs6ehga761sgid6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilir.trivialand",
+            "certificate_hash": "cc37c0c07a010c57c6f50b41ee8cfd7a2ab6375a"
+          }
+        },
+        {
+          "client_id": "183877882449-8bklvu5kel47qu4amv9se41snimhaahi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK4sdfC0SnT1451V9mIXgKif3jGl31pWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183877882449-8bklvu5kel47qu4amv9se41snimhaahi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
